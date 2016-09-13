@@ -1,0 +1,225 @@
+body{
+	font-family: 'Hammersmith One', sans-serif;
+}
+.menu ul li a{
+	list-style-type: none;
+	text-decoration: none;
+	color:#d79df8;
+	padding-right: 5%;
+	text-align:center;
+	margin-left: 2%;
+
+}
+
+.menu ul li{
+	display: inline;
+}
+.menu  ul{
+	text-align: center;
+	margin-bottom: 2.5%;
+}
+.menu{
+	margin-left:0.5%;
+	margin-top: 4%;
+}
+.barra-menu{
+	border-bottom: 3px solid black;
+	width: 35%;
+	height: 2px;
+	margin-left: 32%;
+	margin-top: -2%;
+}
+.fondo{
+	background-image: url(../imagenes/portadaok.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 700px;
+	
+}
+.nave{
+	position: relative;
+	left: 30%;
+}
+.nave img{
+	width: 45%;
+	margin-left:26%;
+	margin-top: -40px;
+	padding: 0;
+}
+.marca{
+	position: relative;
+	left: 53%;
+	margin-top:10%;
+}
+.marca h1{
+	font-family: 'Lobster Two', cursive;
+	font-size: 300%;
+	text-align: center;
+	color:white;
+
+}
+.logo .marca a{
+	width: 100%;
+	height: 40px;
+	color:#80d6e3;
+	border:solid 2px #80d6e3;
+	background-color: transparent;
+	border-radius: 20px;
+	padding:2%;
+	text-decoration: none;
+	font-size: 180%;
+	margin-left:40%;	
+}
+.pic .comprar{
+	width: 40%;
+	height: 40px;
+	color:#80d6e3;
+	border:solid 2px #80d6e3;
+	background-color: transparent;
+	border-radius: 20px;
+	padding:2%;
+	text-decoration: none;
+	font-size: 100%;
+	margin-left:40%;
+
+
+}
+.color1{
+	background-color: #a9f0f0;
+	padding-top: 3%;
+	height: 600px;
+}
+.colec img{
+	width: 20%;
+	height: 40px;
+	margin-left: 37%;
+}
+.colec h1{
+	font-size: 200%;
+	margin-left: 41%;
+	font-family: 'Lobster Two', cursive;
+}
+.foto2{
+	background-image: url(../imagenes/portada.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 350px;
+	border-radius: 10px;
+	width: 90%;
+	margin:0.4% auto;
+	margin-left:5%;
+}
+.nombre1{
+	margin-top:2%;
+}
+.nombre1 h1{
+	font-size: 300%;
+	color:white;
+	position: relative;
+	left: 47%;
+	margin-top:1%;
+	font-family: 'Lobster Two', cursive;
+
+}
+.nombre1 img{
+	width: 50%;
+	position: relative;
+	left:45%;
+	margin-top:0;
+}
+.bg-white{
+	background-color: white;
+	border-radius: 10px;
+	width: 90%;
+	height: 500px;
+	padding:5%;
+	margin:3% auto;
+}
+.bg2{
+	margin:5% auto;
+	padding:0;
+}
+.bg2 div{
+	margin-top: 5%;
+}
+
+.color2{
+
+	background-color:#e0cfe2;
+	padding-top:3px;
+	height: 700px;
+}
+.pic{
+	background-size: 230%;
+	background-repeat: no-repeat;
+	height: 290px;
+	width: 25%;
+	margin:0.5% auto;
+	margin-left:5%;
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 200px 200px 200px 200px;
+	border:3px solid #dbb0e0;
+}	
+.foto3{
+	background-image:url(../imagenes/enterito.png);
+	
+}
+.foto4{
+	background-image: url(../imagenes/enterito2.png);
+	
+}
+.foto5{
+	background-image: url(../imagenes/enterito3.png);
+	background-size: 120%;
+	background-repeat: no-repeat;
+	height: 290px;
+	width: 25%;
+	margin:0.5% auto;
+	margin-left:5%;
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 200px 200px 200px 200px;
+}
+.pic a h1{
+	margin-top: 80%;
+	font-size: 200%;
+	border:1px solid #f1b9f5;
+	background-color: rgba(241,185,245,0.4);
+}
+.pic a{
+	text-decoration:none;
+	color:#57235d;	
+}
+.pic p{
+	font-family: 'Hind Siliguri', sans-serif;
+	color:#71227a;	
+}
+.nombre1 .comprar{
+	width: 40%;
+	height: 40px;
+	color:#f1b9f5;;
+	border:solid 2px #f1b9f5;;
+	background-color: transparent;
+	border-radius: 20px;
+	padding:1%;
+	text-decoration: none;
+	font-size: 80%;
+	margin-left:14.5%;
+	margin-top: 1%;
+}
+
+.pic{
+	text-align: center;
+}
+.pie .pie-pag a{
+	text-decoration: none;
+	color:#57235d;
+}
+.pie{
+	padding-top: 4%;
+	background-color:#a5dbf4;
+	width: 100%;
+	height: 100px;
+	color:#57235d;
+}
